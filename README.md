@@ -22,8 +22,8 @@ I'm a passionate and curious Computer Science student with a strong interest in 
 
 ## 📫 Contact Me
 - Email: kamaleshwaran2213@gmail.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com) (optional)
+- LinkedIn: www.linkedin.com/in/kamalesh-waran
+
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
