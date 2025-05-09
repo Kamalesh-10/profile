@@ -17,7 +17,7 @@ I'm a passionate and curious Computer Science student with a strong interest in 
 - 📚 Currently learning: React js
 
 ## 📂 Projects
-- [Project 1 Name](https://github.com/yourusername/project1): Responsive Resume webpage
+-  Responsive Resume webpage:
 - [Project 2 Name](https://github.com/yourusername/project2): Another cool project with a short description.
 
 ## 📫 Contact Me
