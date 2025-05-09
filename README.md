@@ -25,8 +25,7 @@ I'm a passionate and curious Computer Science student with a strong interest in 
 - LinkedIn: www.linkedin.com/in/kamalesh-waran
 
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 
 ---
 
