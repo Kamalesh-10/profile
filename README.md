@@ -1,4 +1,4 @@
-# profile
+o# profile
 # 👋 Hi, I'm kamalesh
 
 ## 🚀 About Me
@@ -10,7 +10,7 @@ I'm a passionate and curious Computer Science student with a strong interest in 
 - Learn and grow in areas like AI
 
 ## 🛠 Skills & Technologies
-- 💻 Languages: Python, Java, C++, HTML, CSS, JavaScript
+- 💻 Languages: Python, Java, C++, HTML, CSS, JavaScript, React. js
 - 🌐 Web: Bootstrap
 - 🗄 Databases: MySQL
 - 🔧 Tools: Git, GitHub, VS Code
